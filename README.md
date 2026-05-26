@@ -1,8 +1,8 @@
 # proyectofrio PASOS PARA EJECUTARLO
 1. DESCARGAR CARPETA PROYECTOFRIO Y INSTALAR VISUAL STUDIO CODE Y ABRIR CARPETA DESDE DENTRO
    
-📂 2. Entrar en la carpeta del proyecto
-cd proyectofrio
+📂 2. Entrar en la carpeta del proyecto en el terminal
+cd proyectofrio o donde estes 
 
 📦 3. Instalar dependencias
 npm install
